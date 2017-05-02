@@ -55,3 +55,5 @@ Staat voor Single Page Application en zijn toegankelijk vanuit je browser.
 DIT IS EEN EDIT!
 
 DIT IS NOG EEN EDIT!
+
+I EDITED THIS ON GITHUB
