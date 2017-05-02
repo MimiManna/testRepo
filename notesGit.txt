@@ -1,0 +1,55 @@
+*****************
+
+GIT
+
+*****************
+
+Git is een command line tool en wordt gebruikt voor versie beheer systeem.  Je kunt dus een gezamelijk project managen
+en ervoor zorgen dat je samen in dezelfde code kunt werken. Je hebt je eigen branch waar je werkt aan je code, die je 
+pushed naar de master branch voor review door eventuele andere projectleden. 
+
+Dus eigenlijk werk je in je eigen branch, zodra je klaar bent breng je de files
+die je wilt aanpassen naar de staging area en commit je het naar de repository. 
+
+Aleen wijzigingen worden opgeslagen. 
+Git kan bestanden samenvoegen en zorgen dat alle code op de juiste plek komt. 
+Heel vaak comitten. 
+Conflict -> Locaal / Remote / Combineren (default)
+PULL is binnenhalen
+
+.GIT directory.
+
+Git is ontworpen door dezelfde maker als die van Linux. 
+
+
+
+*****************
+
+GITHUB
+
+*****************
+
+Een community voor iedereen die versie control nodig heeft. Ze noemen het ook wel de 'cloud voor code'. 
+Hier zitten de commits. Kopietje van je locale directory d.m.v pushen. Push is code kopieren naar andere
+locatie. 
+
+Public - opensource
+Private 
+
+Je kunt je projecten daar kwijt en je kunt ze er beheren. Tevens is het ook een stukje management want je kunt bijhouden wie
+wat waar heeft aangepast en die de schuld geven of er een opmerking over geven. Je kunt je code ook laten reviewen
+door de community. Je hebt tevens toegang tot een wiki en het forum. 
+
+De mascotte van Github is OctoCat, een schattige kat met 5 tentakels. 
+
+
+
+*****************
+
+SPA
+
+*****************
+
+Staat voor Single Page Application en zijn toegankelijk vanuit je browser. 
+
+DIT IS EEN EDIT!
